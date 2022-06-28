@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pietrucha
 - 👀 I’m interested in photography and traveling. I like playing guitar, board games and camping in the woods
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on designing simple C ++ programs
+- 🌱 I’m currently learning SQL and C#
+- 💞️ I’m looking to collaborate on designing simple C++, C# programs
 - 📫 How to reach me: pietruszynski.damian@gmail.com
 
 <!---
