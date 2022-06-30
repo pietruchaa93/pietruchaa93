@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pietrucha
+- 👋 Hi, I’m Damian Pietruszyński
 - 👀 I’m interested in photography and traveling. I like playing guitar, board games and camping in the woods
 - 🌱 I’m currently learning SQL and C#
 - 💞️ I’m looking to collaborate on designing simple C++, C# programs
